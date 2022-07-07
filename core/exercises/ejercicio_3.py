@@ -1,2 +1,4 @@
-
-print("Este es el ejercicio 3 !!!")
+print(
+    "3. Pide una cadena por teclado, mete los caracteres en una lista sin espacios"
+)
+print("")
