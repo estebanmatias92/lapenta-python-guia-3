@@ -23,6 +23,7 @@ while response != "n" and response != "N":
 print("")
 
 print("Lista de materias: ")
+
 # Show the result
 for materia in subjects:
     print(materia)
